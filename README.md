@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rishavkrd
-- 👀 I’m interested in software internships.
+- 👀 I’m interested in fulltime software roles.
 - 🌱 I’m currently learning web development, java, linux kernel development
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me rishavkrd11@tamu.edu
